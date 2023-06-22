@@ -1,10 +1,4 @@
-/* Name: Kathy Jia
-*  PennKey: kathyjia
-*  Recitation: 209
-*
-*  Execution: n/a
-*
-*  Description: An interface that enforces certain properties on all three types of
+/* Description: An interface that enforces certain properties on all three types of
 *               bricks. 
 */
 
