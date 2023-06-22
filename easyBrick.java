@@ -1,10 +1,4 @@
-/* Name: Kathy Jia
-*  PennKey: kathyjia
-*  Recitation: 209
-*
-*  Execution: n/a
-*
-*  Description: A class that represents the easiest brick to break. Must be hit by
+/* Description: A class that represents the easiest brick to break. Must be hit by
 *               the ball twice to "break"; its opacity decreases after being hit.
 */
 
