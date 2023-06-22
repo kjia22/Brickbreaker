@@ -1,4 +1,6 @@
-/* Description: A class that represents the Brickbreaker game. Takes a level
+/* Execution: java Brickbreaker bricks.txt
+*
+*  Description: A class that represents the Brickbreaker game. Takes a level
 *               description text file and initializes a game board with that data,  
 *               then runs the game. Allows the player to play again after the game is 
 *               over. 
