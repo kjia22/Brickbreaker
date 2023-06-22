@@ -1,7 +1,7 @@
 # Brickbreaker
 CIS 1100 Final Project
 
-**Instructions to Run:**
+**Instructions to Run:**\n
 To run Brickbreaker, run the Brickbreaker.java file and pass in a text file containing the level description (size of screen, number of 
 lives, number of bricks, and position/size of bricks) as the command line argument. The execution statement should be 'java Brickbreaker 
 filename'.
