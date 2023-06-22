@@ -1,10 +1,4 @@
-/* Name: Kathy Jia
-*  PennKey: kathyjia
-*  Recitation: 209
-*
-*  Execution: n/a
-*
-*  Description: A class representing the game board on which the Brickbreaker game 
+/* Description: A class representing the game board on which the Brickbreaker game 
 *               takes place. Keeps track of the game's ball, platform, and bricks
 *               and receives player input to start the game and to launch the ball
 *               into motion after each reset. Can reset the board if the player wants
