@@ -1,10 +1,4 @@
-/* Name: Kathy Jia
-*  PennKey: kathyjia
-*  Recitation: 209
-*
-*  Execution: n/a
-*
-*  Description: A class that represents the platform in Brickbreaker. Can update its
+/* Description: A class that represents the platform in Brickbreaker. Can update its
 *               x-position based on mouse input from the player.
 */
 
