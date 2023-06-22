@@ -1,16 +1,16 @@
 # Brickbreaker
 CIS 1100 Final Project
 
-**Instructions to Run:**\n
+**Instructions to Run:**\
 To run Brickbreaker, run the Brickbreaker.java file and pass in a text file containing the level description (size of screen, number of 
 lives, number of bricks, and position/size of bricks) as the command line argument. The execution statement should be 'java Brickbreaker 
 filename'.
 
-**Additional Features:** 
+**Additional Features:**\
 I added a feature that keeps track of and displays the number of points the player has. I implemented this by adding an instance variable 
 called points in the Ball class and incrementing it each time it collides with a brick, then adding it to the ball's draw function.
 
-**Files:**
+**Files:**\
 The Ball.java file contains a class that represents the ball in Brickbreaker. It can update the ball's position based on acceleration, 
 velocity, and time, and it can test whether it overlaps with a given brick or the platform. If it overlaps with a brick, the ball's 
 acceleration increases and its velocity is adjusted accordingly so that it bounces off. If it overlaps with the platform, the ball's 
