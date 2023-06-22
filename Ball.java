@@ -1,14 +1,7 @@
-/* Name: Kathy Jia
-*  PennKey: kathyjia
-*  Recitation: 209
-*
-*  Execution: n/a
-*
-*  Description: A class that represents the ball in Brickbreaker. Can update its 
+/* Description: A class that represents the ball in Brickbreaker. Can update its 
 *               position based on acceleration, velocity, and time, and can compute
 *               whether it overlaps with a given brick or the platform.
 */
-
 
 public class Ball {
     private double xPos, yPos, xVel, yVel, xAcc, yAcc, radius;
